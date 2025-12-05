@@ -42,5 +42,4 @@ pip install -r requirements.txt
 
 4. Evaluate (open `notebooks/03_evaluation.ipynb`).
 
-## Contact
-AI Engineer — [Your Company Name]
+## Thank You!
